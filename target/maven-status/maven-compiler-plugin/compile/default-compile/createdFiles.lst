@@ -1,0 +1,9 @@
+quoters/Quoter.class
+quoters/annotation/Profiling.class
+quoters/ProfilingController.class
+quoters/ProfilingControllerMBean.class
+quoters/config/ProfilingHandlerBeanPostProcessor.class
+quoters/annotation/InjectRandomInt.class
+quoters/Main.class
+quoters/config/InjectRandomIntAnnotationBeanPostProcessor.class
+quoters/impl/TerminatorQuoter.class
